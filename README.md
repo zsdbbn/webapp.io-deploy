@@ -12,7 +12,7 @@ SECRET ENV NEZHA_KEY      # Nezha 的 key
 SECRET ENV NEZHA_PORT     # Nezha 的服务端口     
 SECRET ENV NEZHA_SERVER   # Nezha 的服务地址
 SECRET ENV PORT           # 容器内服务的端口
-SECRET ENV TARGET_HOSTNAME_URL # 代理目标主机的网址
+SECRET ENV TARGET_HOSTNAME_URL # 代理目标主机的网址 不使用 v2board 设置 http://127.0.0.1:8081
 SECRET ENV API_HOST       # v2board API 服务的域名URL
 SECRET ENV API_KEY        # v2board API 的 access key  
 SECRET ENV CERT_DOMAIN    # v2board 证书的域名  
