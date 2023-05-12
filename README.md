@@ -1,6 +1,6 @@
 # webapp.io-deploy
 
-<https://webapp.io/zsdbbm/deployments>
+<https://webapp.io/zsdbbn/deployments>
 
 点 `Deploy a new site` 按钮 下载你 `fork`的本项目部署
 
