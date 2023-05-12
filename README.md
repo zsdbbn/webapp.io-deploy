@@ -6,7 +6,7 @@
 
 ## 环境变量说明
 
-Nezha 的端口设置为 443 就会自动加 --tls
+
 
 ```env
 SECRET ENV ARGO_AUTH      # Argo 项目的认证信息TOKEN
